@@ -78,6 +78,15 @@
     .experience-sub-title {
       font-size: 1.25rem;
     }
+
+  
+    /*
+    .project-title{
+      font-size: 0.7rem;
+      
+    }
+*/
+    
     .logo {
       font-size: 1.5rem;
     }
@@ -100,5 +109,8 @@
     .text-container {
       text-align: justify;
     }
+
+
   }
+  
   
