@@ -380,6 +380,25 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.about-containers {
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.details-container2 {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+  max-width: calc(33.33% - 2rem);
+  box-sizing: border-box; /* Ensure padding and border don't affect width */
+}
+
 /* CONTACT */
 
 #contact {
